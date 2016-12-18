@@ -1,4 +1,10 @@
-# Ngoprek Go
+# Ngopract Go
+
+Ngoding and Practice Go Lang!
+
+## Install
+
+WIP
 
 ## Run Go Script
 ```console
